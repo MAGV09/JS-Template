@@ -1,6 +1,10 @@
 import 'modern-normalize/modern-normalize.css';
 import './styles/reset.css';
 import './styles/style.css';
-import {oi} from './test.js'
+import {superHeroes} from './test.js'
 
-console.log('oi');
+const obj =JSON.parse('{"name":"John", "age":30, "city":"New York"}')
+console.log(superHeroes.homeTown);
+console.log(obj.name);
+const str = JSON.stringify(obj)
+console.log(str);
