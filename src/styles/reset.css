@@ -34,7 +34,8 @@ img {
   max-inline-size: 100%;
 }
 body {
-  font-family: system-ui, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
-    'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family:
+    system-ui, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+    sans-serif;
   -webkit-font-smoothing: antialiased;
 }
